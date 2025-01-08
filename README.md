@@ -10,4 +10,4 @@
 ![](templates/App_running.gif)
 ### Important links:
 * [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
-"## Flight_fare_prediction" 
+" Flight_fare_prediction" 
